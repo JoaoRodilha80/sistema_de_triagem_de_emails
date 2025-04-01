@@ -4,8 +4,8 @@ Instalar o python e selecionar as caixas opcionais
 
 instalar as bibliotecas: no cmd: pip install -r requirements.txt
 
-no cmd, "cd - diretorio de onde estão os arquivos (c:users/administrator/desktop por exemplo"
+no cmd, "cd - diretorio de onde estão os arquivos" (c:users/administrator/desktop por exemplo)
 
-cdm: python nktdownload.py
+cmd: python nktdownload.py
 
-cmd: automacao.py
+cmd: python automacao.py
