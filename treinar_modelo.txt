@@ -1,0 +1,19 @@
+import pandas as pd
+from sklearn.feature_extraction.text import TfidfVectorizer
+from sklearn.naive_bayes import MultinomialNB
+from sklearn.pipeline import make_pipeline
+import joblib
+
+# 1. Carregar os dados de treinamento
+df = pd.read_csv("emails_treinamento.csv")
+
+# 2. Criar um modelo de Machine Learning
+modelo = make_pipeline(TfidfVectorizer(), MultinomialNB())
+
+# 3. Treinar o modelo
+modelo.fit(df["texto"], df["categoria"])
+
+# 4. Salvar o modelo treinado
+joblib.dump(modelo, "modelo_classificador.pkl")
+
+print("✅ Modelo treinado e salvo!")

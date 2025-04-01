@@ -9,13 +9,22 @@ from datetime import datetime
 from email.message import EmailMessage
 from email.header import decode_header
 from preprocessamento import TextPreprocessor
+import config
 
-# Configurações
-EMAIL_USER = "triagem.ctrlaltesc@gmail.com"
-EMAIL_PASS = "tpgq zcbw icmg mfax"
-IMAP_SERVER = "imap.gmail.com"
-SMTP_SERVER = "smtp.gmail.com"
-CHECK_INTERVAL = 10  # Tempo entre verificações (em segundos)
+EMAIL_USER = config.EMAIL_CONFIG["USER"]
+EMAIL_PASS = config.EMAIL_CONFIG["PASS"]
+IMAP_SERVER = config.EMAIL_CONFIG["IMAP_SERVER"]
+SMTP_SERVER = config.EMAIL_CONFIG["SMTP_SERVER"]
+CHECK_INTERVAL = config.APP_CONFIG["CHECK_INTERVAL"]
+
+try:
+    server = smtplib.SMTP_SSL('smtp.gmail.com', 465, timeout=10)
+    server.login('triagem.ctrlaltesc@gmail.com', 'tpgq zcbw icmg mfax')
+    print("✅ Login bem-sucedido!")
+    server.quit()
+except Exception as e:
+    print(f"❌ Falha: {e}")
+
 
 def decode_email_header(header):
     """Decodifica cabeçalhos de e-mail com caracteres especiais."""
@@ -29,8 +38,8 @@ def decode_email_header(header):
 
 # Carregar modelo
 try:
-    modelo = joblib.load("modelo_classificador.pkl")
-    preprocessor = joblib.load("preprocessor.pkl")
+    modelo = joblib.load(config.APP_CONFIG["MODEL_FILE"])
+    preprocessor = joblib.load(config.APP_CONFIG["PREPROCESSOR_FILE"])
 except Exception as e:
     print(f"❌ Erro ao carregar modelo: {e}")
     exit()
@@ -166,7 +175,10 @@ def extract_email_content(mail, email_id):
 
 def forward_email(original_email, category):
     try:
-        recipient = "softwarectrlaltesc@gmail.com" if category == "software" else "hardwarectrlaltesc@gmail.com"
+        # Adicione este timeout:
+        with smtplib.SMTP_SSL(SMTP_SERVER, 465, timeout=10) as server:
+            server.login(EMAIL_USER, EMAIL_PASS)
+        recipient = recipient = config.EMAIL_CONFIG["SOFTWARE_TEAM"] if category == "software" else config.EMAIL_CONFIG["HARDWARE_TEAM"]
         msg = EmailMessage()
         msg["From"] = EMAIL_USER
         msg["To"] = recipient
@@ -189,8 +201,8 @@ def log_to_spreadsheet(email_data, category):
     """Registra o ticket na planilha Google Sheets correspondente."""
     try:
         # Configuração da autenticação
-        scope = ["https://spreadsheets.google.com/feeds", "https://www.googleapis.com/auth/drive"]
-        creds = ServiceAccountCredentials.from_json_keyfile_name("credenciais.json", scope)
+        scope = scope = config.SHEETS_CONFIG["SCOPE"]
+        creds = ServiceAccountCredentials.from_json_keyfile_name(config.SHEETS_CONFIG["CREDENTIALS_FILE"], scope)
         client = gspread.authorize(creds)
 
         # Seleciona a planilha correta

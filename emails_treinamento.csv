@@ -1,0 +1,1010 @@
+texto,categoria
+Meu PC não dá boot (não inicia),hardware
+O sistema operacional crasha aleatoriamente,software
+O notebook esquenta muito e desliga sozinho,hardware
+O Windows exibe tela azul diariamente,software
+O mouse USB para de funcionar sem motivo,hardware
+O Excel mostra erro "#NOME?" em fórmulas válidas,software
+O teclado não reconhece a tecla Enter,hardware
+O Chrome fecha sozinho quando tem muitas abas,software
+A impressora imprime páginas em branco,hardware
+O Word trava ao salvar documento com imagens,software
+O monitor pisca em intervalos irregulares,hardware
+O ERP não calcula corretamente os impostos,software
+O headset Bluetooth desconecta constantemente,hardware
+O Teams congela durante reuniões importantes,software
+O PC reinicia ao executar programas pesados,hardware
+O antivírus detecta falsos positivos,software
+A webcam mostra imagem pixelada,hardware
+O Python retorna "ModuleNotFoundError",software
+O SSD não é detectado no Linux,hardware
+O MySQL trava ao executar JOINs complexos,software
+A porta USB-C não carrega dispositivos,hardware
+O sistema exige senha mesmo após login,software
+O cooler da GPU faz barulho de roçamento,hardware
+O SAP não gera relatórios em Excel,software
+O microfone capta eco constante,hardware
+O Java mostra "OutOfMemoryError",software
+A tela touch não responde ao toque leve,hardware
+O Power BI não conecta no banco Oracle,software
+O notebook não carrega com carregador original,hardware
+O Docker mostra erro "port already allocated",software
+O leitor de digital não reconhece digitais,hardware
+O Git não faz push no repositório remoto,software
+A placa de vídeo artefata em jogos,hardware
+O Node.js retorna "ECONNREFUSED",software
+O som sai distorcido nas caixas,hardware
+O Photoshop mostra "scratch disk full",software
+O laptop não reconhece bateria,hardware
+O SQL Server dá timeout em queries simples,software
+O monitor externo mostra cores distorcidas,hardware
+O pacote Office não ativa com licença válida,software
+O teclado sem fio tem lag de 2 segundos,hardware
+O Windows Update falha com código 0x80070003,software
+O HD faz clique metálico repetidamente,hardware
+O backup corporativo não finaliza,software
+O PC não reproduz áudio em nenhum app,hardware
+O sistema de RH não aprova férias,software
+A câmera frontal inverte a imagem,hardware
+O VPN desconecta após 5 minutos,software
+O mouse óptico não rastreia em superfícies lisas,hardware
+O software de ponto não registra horas extras,software
+O notebook não entra em modo hibernação,hardware
+O sistema contábil fecha balanço com valores errados,software
+A entrada HDMI não transmite áudio,hardware
+O CRM não filtra clientes por região,software
+O PC faz barulho de ventoinha em alta rotação,hardware
+O app de folha de ponto mostra horas negativas,software
+A tela do smartphone não responde ao toque,hardware
+O sistema de estoque não atualiza saldo,software
+O cabo HDMI não transmite sinal para a TV,hardware
+O BI não gera gráficos personalizados,software
+A fonte esquenta muito mesmo em idle,hardware
+O compilador C++ mostra "undefined reference",software
+O projetor não foca corretamente,hardware
+O WordPress retorna erro 500 ao publicar,software
+O PC não reconhece segundo monitor,hardware
+O aplicativo bancário não inicia sessão,software
+O microfone USB capta ruído de fundo,hardware
+O sistema de tickets não atribui chamados,software
+A placa-mãe não detecta RAM nova,hardware
+O Android Studio não emula dispositivos,software
+O teclado mecânico tem teclas travando,hardware
+O Linux mostra "Kernel panic" ao bootar,software
+O NAS não é acessível pela rede,hardware
+O WordPress não envia emails SMTP,software
+O mouse pad não reconhece movimentos precisos,hardware
+O ERP não gera notas fiscais eletrônicas,software
+A TV como segundo monitor fica piscando,hardware
+O sistema de backup não compacta arquivos,software
+O leitor de CD/DVD não ejeta mídia,hardware
+O aplicativo de RH não calcula rescisões,software
+O computador está extremamente lento,software
+O ventoinha da CPU não gira ao ligar,hardware
+O Outlook não sincroniza pastas compartilhadas,software
+O touchpad não reconhece gestos de dois dedos,hardware
+O Windows Explorer para de responder frequentemente,software
+A porta Ethernet não detecta cabo de rede,hardware
+O SAP trava ao gerar relatório de estoque,software
+O leitor de cartão SD não reconhece mídias,hardware
+O Python mostra erro de sintaxe em código válido,software
+A conexão Thunderbolt 3 não funciona,hardware
+O MySQL não inicia após atualização,software
+O teclado iluminado não acende as LEDs,hardware
+O antivírus não atualiza definições,software
+A webcam integrada não é detectada,hardware
+O Teams não compartilha áudio em apresentações,software
+O disco rígido externo não monta,hardware
+O sistema mostra "Missing DLL" ao iniciar apps,software
+A luz do teclado não ajusta brilho,hardware
+O Excel não plota gráficos corretamente,software
+O leitor biométrico não cadastra digitais,hardware
+O sistema de backup ignora arquivos grandes,software
+O microfone sem fio corta o áudio,hardware
+O Chrome não renderiza páginas corretamente,software
+O PC não reconhece o headset USB,hardware
+O Photoshop não exporta arquivos em PNG,software
+A ventoinha da GPU gira em velocidade máxima constantemente,hardware
+O Outlook não exibe imagens nos e-mails,software
+O cabo de rede perde pacotes durante transferências,hardware
+O sistema de CRM não salva contatos novos,software
+A tela do notebook apresenta dead pixels,hardware
+O aplicativo de VPN não conecta em redes públicas,software
+O mouse sem fio não carrega na base,hardware
+O software de contabilidade não fecha o mês,software
+A porta USB não reconhece dispositivos,hardware
+O Windows não aplica atualizações críticas,software
+O cooler do processador faz barulho irregular,hardware
+O Excel não responde ao usar tabelas dinâmicas,software
+O monitor não ajusta o brilho automaticamente,hardware
+O sistema de BI não atualiza dashboards,software
+O teclado numérico não funciona após atualização,hardware
+O ERP não emite relatórios personalizados,software
+A câmera IP não se conecta ao sistema,hardware
+O Teams não grava reuniões localmente,software
+O SSD mostra alerta de saúde no BIOS,hardware
+O Python não importa bibliotecas instaladas,software
+A impressora não duplexa automaticamente,hardware
+O sistema de backup não verifica integridade,software
+O microfone embutido capta interferência,hardware
+O Chrome não sincroniza favoritos,software
+A placa de rede não negocia velocidade correta,hardware
+O Word não gera sumário automático,software
+O notebook não detecta a docking station,hardware
+O SAP não calcula impostos estaduais,software
+A tela externa pisca em modo extendido,hardware
+O aplicativo de ponto não registra batidas,software
+O PC não entra em modo de suspensão,hardware
+O Windows não reconhece licença válida,software
+O leitor de cartão inteligente não autentica,hardware
+O MySQL não otimiza queries complexas,software
+A conexão Wi-Fi cai em alta velocidade,software
+Erro de autenticação ao conectar no WiFi corporativo,software
+A antena WiFi está solta,hardware
+Não encontra redes WiFi após instalar Linux,software
+Meu PC está muito lento ao usar o Chrome,software
+O computador esquenta e fica lento ao abrir vários programas,software
+Lentidão geral após atualização do Windows,software
+PC lento com ventoinha fazendo barulho,hardware
+O driver da placa de rede não instala,software
+A antena WiFi está solta no notebook,hardware
+Meu computador não encontra redes WiFi,software
+O conector do cabo de rede está danificado,hardware
+Meu pc fica travando quando abro muitos sites,software
+O computador demora para responder depois de instalar programas,software
+O pc está extremamente lento após atualização,software
+A tela do monitor apresenta linhas verticais,hardware
+O sistema não reconhece o scanner conectado via USB,hardware
+O aplicativo de edição de vídeo fecha inesperadamente,software
+A porta HDMI não transmite vídeo para o projetor,hardware
+O banco de dados corrompe após queda de energia,software
+O teclado apresenta falhas na tecla Espaço,hardware
+O sistema de e-mail não envia anexos grandes,software
+A ventoinha traseira do gabinete não funciona,hardware
+O software de CAD não renderiza modelos 3D,software
+O cabo SATA do HD está solto,hardware
+O aplicativo de reuniões não compartilha tela,software
+A placa de som não reproduz áudio em 5.1,hardware
+O sistema de backup não criptografa os arquivos,software
+O conector de alimentação da placa-mãe está oxidado,hardware
+O navegador Edge não carrega páginas HTTPS,software
+A memória RAM não é reconhecida em dual-channel,hardware
+O software de VM não inicia máquinas virtuais,software
+O sensor de temperatura da CPU está com falha,hardware
+O aplicativo de mensagens não notifica novas mensagens,software
+A bateria do notebook não carrega além de 50%,hardware
+O sistema de login não aceita caracteres especiais na senha,software
+O conector PSU está danificado,hardware
+O software de contabilidade não gera DARF,software
+A tela do tablet não responde ao stylus,hardware
+O aplicativo de clima não atualiza a previsão,software
+O slot M.2 não reconhece o novo SSD NVMe,hardware
+O sistema de OCR não reconhece textos em PDF,software
+A câmera traseira do smartphone não foca,hardware
+O software de tradução não processa idiomas asiáticos,software
+O dissipador de calor está mal encaixado,hardware
+O aplicativo de notas não sincroniza entre dispositivos,software
+A porta DisplayPort não detecta o monitor,hardware
+O sistema de CRM não exporta relatórios em CSV,software
+O microfone do headset não é detectado no Windows,hardware
+O software de prototipagem não renderiza sombras,software
+A placa de rede onboard não ativa o LED de conexão,hardware
+O aplicativo de calendário não sincroniza com o Google,software
+O leitor de cartão SIM não reconhece o chip,hardware
+O sistema de backup não faz backup incremental,software
+A ventoinha do water cooler faz barulho estridente,hardware
+O software de edição de áudio não aplica plugins VST,software
+O conector do carregador está solto no notebook,hardware
+O aplicativo de finanças não calcula juros compostos,software
+A tela do smartwatch não liga,hardware
+O sistema de tickets não gera QR Code,software
+O sensor de impressão digital não funciona após atualização,hardware
+O software de VPN não conecta em redes 5G,software
+A porta USB 3.0 não atinge velocidade máxima,hardware
+O aplicativo de streaming não reproduz em 4K,software
+O cabo de força está com mau contato,hardware
+O sistema de reconhecimento facial não funciona com óculos,software
+A placa de vídeo não acelera renderizações,hardware
+O software de banco de dados não otimiza índices,software
+O botão de energia do gabinete está travado,hardware
+O aplicativo de e-mail não filtra spam corretamente,software
+A conexão Bluetooth não mantém pareamento,hardware
+O sistema de BI não gera relatórios em tempo real,software
+O cooler do chipset está com ruído anormal,hardware
+O software de reuniões não grava transcrições,software
+A tela do notebook apresenta burn-in,hardware
+O aplicativo de tarefas não envia lembretes,software
+O slot PCIe não reconhece a placa de captura,hardware
+O sistema de tradução simultânea tem delay,software
+A câmera de segurança não grava em infravermelho,hardware
+O software de código-fonte não destaca sintaxe,software
+O conector do fone de ouvido está com curto,hardware
+O aplicativo de edição não suporta camadas,software
+A ventoinha da fonte não gira,hardware
+O sistema de backup não restora arquivos corretamente,software
+O sensor de luminosidade não ajusta o brilho,hardware
+O software de CRM não integra com WhatsApp Business,software
+O cabo HDMI está com defeito na ponta,hardware
+O aplicativo de produtividade não exporta para PDF,software
+A porta Thunderbolt não alimenta dispositivos,hardware
+O sistema de reconhecimento de voz não entende sotaques,software
+O leitor de código de barras não escaneia QR Codes,hardware
+O software de controle parental não bloqueia sites,software
+A tela do celular não responde à caneta,hardware
+O aplicativo de delivery não mostra histórico,software
+O conector do microfone está com interferência,hardware
+O sistema de agendamento não sincroniza com Outlook,software
+A placa de rede não mantém conexão Gigabit,hardware
+O software de design não renderiza texturas,software
+O botão do touchpad está com mau contato,hardware
+O aplicativo de notas não converte escrita em texto,software
+A câmera frontal não ajusta foco automático,hardware
+O sistema de backup não compacta arquivos grandes,software
+O conector do carregador está superaquecendo,hardware
+O software de e-commerce não calcula frete,software
+A ventoinha lateral do gabinete está emperrada,hardware
+O aplicativo de mensagens não envia arquivos,software
+O sensor de proximidade não desliga a tela,hardware
+O sistema de tradução não reconhece idiomas raros,software
+A porta USB-C não reconhece pendrives,hardware
+O software de contabilidade não gera SPED,software
+O cabo de rede está com defeito no conector RJ45,hardware
+O aplicativo de clima não mostra radar de chuva,software
+A tela do monitor apresenta flickering,hardware
+O sistema de tickets não atribui prioridades,software
+O conector do fone de ouvido não detecta microfone,hardware
+O software de edição não aplica filtros em vídeos,software
+A placa de som não reproduz áudio em 7.1,hardware
+O aplicativo de finanças não gera gráficos,software
+O sensor de temperatura da GPU está com falha,hardware
+O sistema de backup não faz verificação de integridade,software
+A ventoinha dianteira do gabinete não gira,hardware
+O software de VPN não mantém conexão estável,software
+O conector do mouse está com mau contato,hardware
+O aplicativo de calendário não cria eventos recorrentes,software
+A tela do tablet não gira automaticamente,hardware
+O sistema de OCR não reconhece textos manuscritos,software
+O cabo de alimentação da GPU está solto,hardware
+O software de prototipagem não exporta para STL,software
+A câmera do notebook não ajusta balanço de branco,hardware
+O aplicativo de streaming não reproduz em HDR,software
+O slot de memória RAM está com oxidação,hardware
+O sistema de backup não faz backup diferencial,software
+A ventoinha do water cooler não regula velocidade,hardware
+O software de edição não remove fundo de imagens,software
+O conector do teclado está com defeito,hardware
+O aplicativo de e-mail não organiza por pastas,software
+A tela do smartphone apresenta touch ghosting,hardware
+O sistema de CRM não gera relatórios de desempenho,software
+O cabo DisplayPort não transmite áudio,hardware
+O software de código-fonte não compara versões,software
+A placa de rede não reconhece cabos CAT6,hardware
+O aplicativo de produtividade não sincroniza offline,software
+O sensor de luz ambiente não funciona,hardware
+O sistema de backup não criptografa backups,software
+A ventoinha traseira do gabinete faz barulho,hardware
+O software de design não aplica gradientes,software
+O conector do headset está com curto-circuito,hardware
+O aplicativo de finanças não importa extratos,software
+A tela do monitor apresenta dead pixels,hardware
+O sistema de tickets não envia notificações,software
+O cabo USB está com defeito na blindagem,hardware
+O software de reuniões não compartilha áudio,software
+A placa-mãe não atualiza BIOS,hardware
+O aplicativo de clima não mostra qualidade do ar,software
+O sensor de digital não funciona com dedos molhados,hardware
+O sistema de backup não faz backup em nuvem,software
+A ventoinha da GPU não para em idle,hardware
+O software de edição não renderiza em 4K,software
+O conector do microfone está com ruído,hardware
+O aplicativo de mensagens não bloqueia spam,software
+A tela do notebook apresenta image retention,hardware
+O sistema de OCR não reconhece tabelas,software
+O cabo HDMI está com interferência,hardware
+O software de contabilidade não gera DAS,software
+A porta Ethernet não negocia 1Gbps,hardware
+O aplicativo de e-commerce não processa pagamentos,software
+O sensor de movimento não detecta gestos,hardware
+O sistema de backup não faz backup completo,software
+A ventoinha do processador está desbalanceada,hardware
+O software de VPN não conecta em IPv6,software
+O conector do carregador está derretendo,hardware
+O aplicativo de notas não reconhece comandos de voz,software
+A tela do tablet não responde à pressão,hardware
+O sistema de CRM não integra com redes sociais,software
+O cabo de rede está com comprimento excessivo,hardware
+O software de edição não aplica keyframes,software
+A placa de som não reproduz áudio em 96kHz,hardware
+O aplicativo de finanças não calcula ROI,software
+O sensor de temperatura está com leitura incorreta,hardware
+O sistema de backup não verifica checksum,software
+A ventoinha lateral do gabinete está desalinhada,hardware
+O software de design não exporta para SVG,software
+O conector do fone de ouvido não cancela ruído,hardware
+O aplicativo de e-mail não filtra por remetente,software
+A tela do smartphone não ajusta brilho automático,hardware
+O sistema de tickets não gera relatórios mensais,software
+O cabo de força está com fios expostos,hardware
+O software de reuniões não permite gravação local,software
+A placa de vídeo não suporta DirectX 12,hardware
+O aplicativo de clima não mostra UV index,software
+O sensor de digital não funciona após atualização,hardware
+O sistema de backup não faz backup agendado,software
+A ventoinha dianteira do gabinete está emperrada,hardware
+O software de VPN não tem kill switch,software
+O conector do mouse está solto,hardware
+O aplicativo de calendário não compartilha eventos,software
+A tela do monitor apresenta backlight bleeding,hardware
+O sistema de OCR não reconhece colunas,software
+O cabo USB-C não carrega dispositivos rapidamente,hardware
+O software de contabilidade não calcula IRRF,software
+A porta HDMI não transmite HDR,hardware
+O aplicativo de e-commerce não atualiza estoque,software
+O sensor de proximidade não funciona no escuro,hardware
+O sistema de backup não restaura versões anteriores,software
+A ventoinha do water cooler está vazando líquido,hardware
+O software de edição não aplica máscaras,software
+O conector do teclado está oxidado,hardware
+O aplicativo de mensagens não envia imagens,software
+A tela do notebook apresenta color shift,hardware
+O sistema de CRM não gera relatórios customizados,software
+O cabo DisplayPort está com defeito no conector,hardware
+O software de código-fonte não tem autocomplete,software
+A placa de rede não mantém conexão estável,hardware
+O aplicativo de produtividade não exporta para Word,software
+O sensor de luz ambiente não ajusta brilho,hardware
+O sistema de backup não compacta arquivos binários,software
+A ventoinha traseira do gabinete está desbalanceada,hardware
+O software de design não renderiza sombras suaves,software
+O conector do headset não reconhece microfone,hardware
+O aplicativo de finanças não calcula juros simples,software
+A tela do monitor apresenta clouding,hardware
+O sistema de tickets não prioriza urgências,software
+O cabo USB está com resistência alta,hardware
+O software de reuniões não compartilha documentos,software
+A placa-mãe não reconhece periféricos USB,hardware
+O aplicativo de clima não mostra pressão atmosférica,software
+O sensor de digital não funciona com luvas,hardware
+O sistema de backup não faz backup espelhado,software
+A ventoinha da GPU está com rolamento danificado,hardware
+O software de edição não exporta em HEVC,software
+O conector do microfone está com estática,hardware
+O aplicativo de mensagens não cria grupos,software
+A tela do tablet não responde a toques leves,hardware
+O sistema de OCR não reconhece listas numeradas,software
+O cabo HDMI não transmite áudio multicanal,hardware
+O software de contabilidade não gera GFIP,software
+A porta Ethernet não detecta cabo crossover,hardware
+O aplicativo de e-commerce não processsa cartões,software
+O sensor de movimento não detecta rotação,hardware
+O sistema de backup não faz backup de sistema,software
+A ventoinha do processador está com vibração excessiva,hardware
+O software de VPN não tem split tunneling,software
+O conector do carregador está carbonizado,hardware
+O aplicativo de notas não sincroniza anexos,software
+A tela do smartphone não responde a gestos,hardware
+O sistema de CRM não gera relatórios de vendas,software
+O cabo de rede está com interferência eletromagnética,hardware
+O software de edição não aplica transições,software
+A placa de som não reproduz áudio em 192kHz,hardware
+O aplicativo de finanças não calcula amortização,software
+O sensor de temperatura está com offset,hardware
+O sistema de backup não verifica assinaturas digitais,software
+A ventoinha lateral do gabinete está desgastada,hardware
+O software de design não exporta para PDF/X-4,software
+O conector do fone de ouvido não isola ruído externo,hardware
+O aplicativo de e-mail não pesquisa por tags,software
+A tela do notebook apresenta motion blur,hardware
+O sistema de tickets não gera relatórios semanais,software
+O cabo de força está com sobreaquecimento,hardware
+O software de reuniões não permite votação,software
+A placa de vídeo não suporta Ray Tracing,hardware
+O aplicativo de clima não mostra marés,software
+O sensor de digital não reconhece digitais úmidas,hardware
+O sistema de backup não faz backup de registro,software
+A ventoinha dianteira do gabinete está com folga,hardware
+O software de VPN não tem DNS leak protection,software
+O conector do mouse está com oxidação,hardware
+O aplicativo de calendário não sincroniza com iCloud,software
+A tela do monitor apresenta IPS glow,hardware
+O sistema de OCR não reconhece textos em colunas,software
+O cabo USB-C não transmite vídeo,hardware
+O software de contabilidade não calcula PIS,software
+A porta HDMI não transmite Dolby Vision,hardware
+O aplicativo de e-commerce não gera cupons,software
+O sensor de proximidade não funciona sob luz solar,hardware
+O sistema de backup não restaura configurações,software
+A ventoinha do water cooler está com ruído hidráulico,hardware
+O software de edição não aplica LUTs,software
+O conector do teclado está com mau contato,hardware
+O aplicativo de mensagens não envia vídeos,software
+A tela do notebook apresenta backlight flicker,hardware
+O sistema de CRM não gera relatórios de clientes,software
+O cabo DisplayPort está com interferência,hardware
+O software de código-fonte não tem debugger,software
+A placa de rede não negocia 2.5Gbps,hardware
+O aplicativo de produtividade não exporta para PPT,software
+O sensor de luz ambiente não ajusta contraste,hardware
+O sistema de backup não compacta arquivos de log,software
+A ventoinha traseira do gabinete está com folga,hardware
+O software de design não renderiza reflexos,software
+O conector do headset não cancela eco,hardware
+O aplicativo de finanças não calcula CDI,software
+A tela do monitor apresenta pixel stuck,hardware
+O sistema de tickets não gera relatórios diários,software
+O cabo USB está com perda de dados,hardware
+O software de reuniões não permite legendas,software
+A placa-mãe não reconhece NVMe,hardware
+O aplicativo de clima não mostra umidade do solo,software
+O sensor de digital não reconhece após formatação,hardware
+O sistema de backup não faz backup de perfil,software
+A ventoinha da GPU está com rolamento gasto,hardware
+O software de edição não exporta em ProRes,software
+O conector do microfone está com zumbido,hardware
+O aplicativo de mensagens não bloqueia contatos,software
+A tela do tablet não responde a canetas ativas,hardware
+O sistema de OCR não reconhece textos em itálico,software
+O cabo HDMI não transmite áudio em DTS:X,hardware
+O software de contabilidade não gera DCTF,software
+A porta Ethernet não detecta cabo flat,hardware
+O aplicativo de e-commerce não processsa Pix,software
+O sensor de movimento não detecta inclinação,hardware
+O sistema de backup não faz backup de arquivos abertos,software
+A ventoinha do processador está com folga axial,hardware
+O software de VPN não tem obfuscation,software
+O conector do carregador está derretido,hardware
+O aplicativo de notas não reconhece matemática,software
+A tela do smartphone não responde a toques múltiplos,hardware
+O sistema de CRM não gera relatórios de leads,software
+O cabo de rede está com atenuação excessiva,hardware
+O software de edição não aplica chroma key,software
+A placa de som não reproduz áudio em DSD,hardware
+O aplicativo de finanças não calcula IOF,software
+O sensor de temperatura está com hysteresis,hardware
+O sistema de backup não verifica consistência,software
+A ventoinha lateral do gabinete está com vibração,hardware
+O software de design não exporta para AI,software
+O conector do fone de ouvido não isola graves,hardware
+O aplicativo de e-mail não filtra por tamanho,software
+A tela do notebook apresenta color banding,hardware
+O sistema de tickets não gera relatórios por equipe,software
+O cabo de força está com resistência térmica,hardware
+O software de reuniões não permite gravação em nuvem,software
+A placa de vídeo não suporta Vulkan,hardware
+O aplicativo de clima não mostra poluição do ar,software
+O sensor de digital não reconhece após troca de tela,hardware
+O sistema de backup não faz backup de metadados,software
+A ventoinha dianteira do gabinete está desalinhada,hardware
+O software de VPN não tem IPv6 leak protection,software
+O conector do mouse está com resistência,hardware
+O aplicativo de calendário não sincroniza com Exchange,software
+A tela do monitor apresenta VA panel glow,hardware
+O sistema de OCR não reconhece textos sublinhados,software
+O cabo USB-C não carrega rapidamente,hardware
+O software de contabilidade não calcula CSLL,software
+A porta HDMI não transmite HDR10+,hardware
+O aplicativo de e-commerce não gera NFC-e,software
+O sensor de proximidade não funciona com película,hardware
+O sistema de backup não restaura permissões,software
+A ventoinha do water cooler está com vazamento,hardware
+O software de edição não aplica noise reduction,software
+O conector do teclado está com oxidação,hardware
+O aplicativo de mensagens não envia áudios,software
+A tela do notebook apresenta ghosting,hardware
+O sistema de CRM não gera relatórios de mercado,software
+O cabo DisplayPort está com perda de sinal,hardware
+O software de código-fonte não tem refactoring,software
+A placa de rede não negocia 5Gbps,hardware
+O aplicativo de produtividade não exporta para XLSX,software
+O sensor de luz ambiente não ajusta gamma,hardware
+O sistema de backup não compacta arquivos temporários,software
+A ventoinha traseira do gabinete está com ruído,hardware
+O software de design não renderiza translucidez,software
+O conector do headset não cancela ruído ambiente,hardware
+O aplicativo de finanças não calcula TR,software
+A tela do monitor apresenta backlight bleed,hardware
+O sistema de tickets não gera relatórios por cliente,software
+O cabo USB está com perda de energia,hardware
+O software de reuniões não permite compartilhamento de áudio,software
+A placa-mãe não reconhece GPU externa,hardware
+O aplicativo de clima não mostra índice de calor,software
+O sensor de digital não reconhece após atualização de BIOS,hardware
+O sistema de backup não faz backup de chaves de registro,software
+A ventoinha da GPU está com folga radial,hardware
+O software de edição não exporta em DNxHR,software
+O conector do microfone está com chiado,hardware
+O aplicativo de mensagens não envia documentos,software
+A tela do tablet não responde a toques firmes,hardware
+O sistema de OCR não reconhece textos em negrito,software
+O cabo HDMI não transmite áudio em Dolby Atmos,hardware
+O software de contabilidade não gera DAPI,software
+A porta Ethernet não detecta cabo blindado,hardware
+O aplicativo de e-commerce não processsa boleto,software
+O sensor de movimento não detecta aceleração,hardware
+O sistema de backup não faz backup de arquivos ocultos,software
+A ventoinha do processador está com desgaste,hardware
+O software de VPN não tem WebRTC leak protection,software
+O conector do carregador está carbonizando,hardware
+O aplicativo de notas não reconhece química,software
+A tela do smartphone não responde a toques leves,hardware
+O sistema de CRM não gera relatórios de satisfação,software
+O cabo de rede está com perda de pacotes,hardware
+O software de edição não aplica stabilizer,software
+A placa de som não reproduz áudio em MQA,hardware
+O aplicativo de finanças não calcula FGC,software
+O sensor de temperatura está com drift,hardware
+O sistema de backup não verifica checksums,software
+A ventoinha lateral do gabinete está com ruído,hardware
+O software de design não exporta para PSD,software
+O conector do fone de ouvido não isola médios,hardware
+O aplicativo de e-mail não filtra por domínio,software
+A tela do notebook apresenta IPS bleed,hardware
+O sistema de tickets não gera relatórios por categoria,software
+O cabo de força está com isolamento danificado,hardware
+O software de reuniões não permite gravação em HD,software
+A placa de vídeo não suporta OpenCL,hardware
+O aplicativo de clima não mostra índice UV,software
+O sensor de digital não reconhece após reset,hardware
+O sistema de backup não faz backup de atalhos,software
+A ventoinha dianteira do gabinete está com folga,hardware
+O software de VPN não tem firewall integrado,software
+O conector do mouse está com desgaste,hardware
+O aplicativo de calendário não sincroniza com Zimbra,software
+A tela do monitor apresenta TN panel glow,hardware
+O sistema de OCR não reconhece textos em caixa alta,software
+O cabo USB-C não transmite DisplayPort,hardware
+O software de contabilidade não calcula IRPJ,software
+A porta HDMI não transmite HLG,hardware
+O aplicativo de e-commerce não gera DANFE,software
+O sensor de proximidade não funciona com capa,hardware
+O sistema de backup não restaura atributos,software
+A ventoinha do water cooler está com corrosão,hardware
+O software de edição não aplica sharpening,software
+O conector do teclado está com resíduos,hardware
+O aplicativo de mensagens não envia stickers,software
+A tela do notebook apresenta motion blur,hardware
+O sistema de CRM não gera relatórios de retenção,software
+O cabo DisplayPort está com interferência RF,hardware
+O software de código-fonte não tem linting,software
+A placa de rede não negocia 10Gbps,hardware
+O aplicativo de produtividade não exporta para ODT,software
+O sensor de luz ambiente não ajusta nitidez,hardware
+O sistema de backup não compacta arquivos de sistema,software
+A ventoinha traseira do gabinete está com desgaste,hardware
+O software de design não renderiza SSS,software
+O conector do headset não cancela vento,hardware
+O aplicativo de finanças não calcula CDB,software
+A tela do monitor apresenta glow,hardware
+O sistema de tickets não gera relatórios por prioridade,software
+O cabo USB está com queda de tensão,hardware
+O software de reuniões não permite compartilhamento de vídeo,software
+A placa-mãe não reconhece RAID,hardware
+O aplicativo de clima não mostra ponto de orvalho,software
+O sensor de digital não reconhece após troca de bateria,hardware
+O sistema de backup não faz backup de links simbólicos,software
+A ventoinha da GPU está com rolamento danificado,hardware
+O software de edição não exporta em CineForm,software
+O conector do microfone está com ruído branco,hardware
+O aplicativo de mensagens não envia localização,software
+A tela do tablet não responde a toques rápidos,hardware
+O sistema de OCR não reconhece textos em fonte cursiva,software
+O cabo HDMI não transmite áudio em DTS-HD,hardware
+O software de contabilidade não gera DARF,software
+A porta Ethernet não detecta cabo direto,hardware
+O aplicativo de e-commerce não processsa TED,software
+O sensor de movimento não detecta rotação,hardware
+O sistema de backup não faz backup de perfil de usuário,software
+A ventoinha do processador está com folga,hardware
+O software de VPN não tem multihop,software
+O conector do carregador está derretendo,hardware
+O aplicativo de notas não reconhece física,software
+A tela do smartphone não responde a toques simultâneos,hardware
+O sistema de CRM não gera relatórios de conversão,software
+O cabo de rede está com delay,hardware
+O software de edição não aplica warp stabilization,software
+A placa de som não reproduz áudio em Dolby TrueHD,hardware
+O aplicativo de finanças não calcula LCI,software
+O sensor de temperatura está com ruído,hardware
+O sistema de backup não verifica hashes,software
+A ventoinha lateral do gabinete está com desalinhamento,hardware
+O software de design não exporta para TIFF,software
+O conector do fone de ouvido não isola agudos,hardware
+O aplicativo de e-mail não filtra por assunto,software
+A tela do notebook apresenta backlight uniformity,hardware
+O sistema de tickets não gera relatórios por status,software
+O cabo de força está com sobrecarga,hardware
+O software de reuniões não permite gravação em 4K,software
+A placa de vídeo não suporta Metal,hardware
+O aplicativo de clima não mostra índice de polen,software
+O sensor de digital não reconhece após atualização de driver,hardware
+O sistema de backup não faz backup de arquivos ocultos do sistema,software
+A ventoinha dianteira do gabinete está com desgaste,hardware
+O software de VPN não tem DNS over HTTPS,software
+O conector do mouse está com oxidação,hardware
+O aplicativo de calendário não sincroniza com Nextcloud,software
+A tela do monitor apresenta viewing angles,hardware
+O sistema de OCR não reconhece textos em fonte monospace,software
+O cabo USB-C não transmite Thunderbolt,hardware
+O software de contabilidade não calcula ISS,software
+A porta HDMI não transmite Dolby Vision IQ,hardware
+O aplicativo de e-commerce não gera MDF-e,software
+O sensor de proximidade não funciona com película fosca,hardware
+O sistema de backup não restaura permissões NTFS,software
+A ventoinha do water cooler está com sedimentos,hardware
+O software de edição não aplica grain,software
+O conector do teclado está com sujeira,hardware
+O aplicativo de mensagens não envia contatos,software
+A tela do notebook apresenta color uniformity,hardware
+O sistema de CRM não gera relatórios de engajamento,software
+O cabo DisplayPort está com perda de frames,hardware
+O software de código-fonte não tem profiling,software
+A placa de rede não negocia multigigabit,hardware
+O aplicativo de produtividade não exporta para RTF,software
+O sensor de luz ambiente não ajusta saturação,hardware
+O sistema de backup não compacta arquivos de configuração,software
+A ventoinha traseira do gabinete está com vibração,hardware
+O software de design não renderiza caustics,software
+O conector do headset não cancela ruído de fundo,hardware
+O aplicativo de finanças não calcula LCA,software
+A tela do monitor apresenta uniformity,hardware
+O sistema de tickets não gera relatórios por departamento,software
+O cabo USB está com interferência,hardware
+O software de reuniões não permite compartilhamento de aplicativos,software
+A placa-mãe não reconhece Thunderbolt,hardware
+O aplicativo de clima não mostra índice de raios UV,software
+O sensor de digital não reconhece após reinstalação do sistema,hardware
+O sistema de backup não faz backup de arquivos indexados,software
+A ventoinha da GPU está com folga,hardware
+O software de edição não exporta em Avid DNxHD,software
+O conector do microfone está com interferência,hardware
+O aplicativo de mensagens não envia figurinhas,software
+A tela do tablet não responde a toques precisos,hardware
+O sistema de OCR não reconhece textos em fonte script,software
+O cabo HDMI não transmite áudio em Auro-3D,hardware
+O software de contabilidade não gera DASN,software
+A porta Ethernet não detecta cabo de fibra óptica,hardware
+O aplicativo de e-commerce não processsa DOC,software
+O sensor de movimento não detecta velocidade angular,hardware
+O sistema de backup não faz backup de arquivos compactados,software
+A ventoinha do processador está com desbalanceamento,hardware
+O software de VPN não tem kill switch hardware,software
+O conector do carregador está superaquecendo,hardware
+O aplicativo de notas não reconhece biologia,software
+A tela do smartphone não responde a toques leves,hardware
+O sistema de CRM não gera relatórios de fidelização,software
+O cabo de rede está com latência,hardware
+O software de edição não aplica rolling shutter correction,software
+A placa de som não reproduz áudio em DXD,hardware
+O aplicativo de finanças não calcula LC,software
+O sensor de temperatura está com calibração incorreta,hardware
+O sistema de backup não verifica metadados,software
+A ventoinha lateral do gabinete está com desgaste,hardware
+O software de design não exporta para EXR,software
+O conector do fone de ouvido não isola vozes,hardware
+O aplicativo de e-mail não filtra por data,software
+A tela do notebook apresenta glow uniformity,hardware
+O sistema de tickets não gera relatórios por tipo,software
+O cabo de força está com resistência,hardware
+O software de reuniões não permite gravação em HDR,software
+A placa de vídeo não suporta CUDA,hardware
+O aplicativo de clima não mostra índice de umidade,software
+O sensor de digital não reconhece após hibernação,hardware
+O sistema de backup não faz backup de arquivos criptografados,software
+A ventoinha dianteira do gabinete está com ruído,hardware
+O software de VPN não tem split tunneling por aplicativo,software
+O conector do mouse está com desgaste,hardware
+O aplicativo de calendário não sincroniza com SOGo,software
+A tela do monitor apresenta color shift,hardware
+O sistema de OCR não reconhece textos em fonte sans-serif,software
+O cabo USB-C não transmite USB4,hardware
+O software de contabilidade não calcula COFINS,software
+A porta HDMI não transmite HDR10+ Adaptive,hardware
+O aplicativo de e-commerce não gera CT-e,software
+O sensor de proximidade não funciona com capa espessa,hardware
+O sistema de backup não restaura ACLs,software
+A ventoinha do water cooler está com depósitos minerais,hardware
+O software de edição não aplica deflicker,software
+O conector do teclado está com oxidação,hardware
+O aplicativo de mensagens não envia GIFs,software
+A tela do notebook apresenta backlight bleed,hardware
+O sistema de CRM não gera relatórios de churn,software
+O cabo DisplayPort está com perda de áudio,hardware
+O software de código-fonte não tem unit testing,software
+A placa de rede não negocia 25Gbps,hardware
+O aplicativo de produtividade não exporta para CSV,software
+O sensor de luz ambiente não ajusta temperatura de cor,hardware
+O sistema de backup não compacta arquivos de log do sistema,software
+A ventoinha traseira do gabinete está com desalinhamento,hardware
+O software de design não renderiza volumetrics,software
+O conector do headset não cancela ruído de vento,hardware
+O aplicativo de finanças não calcula CRI,software
+A tela do monitor apresenta IPS glow uniformity,hardware
+O sistema de tickets não gera relatórios por região,software
+O cabo USB está com perda de sinal,hardware
+O software de reuniões não permite compartilhamento de área de trabalho,software
+A placa-mãe não reconhece Optane,hardware
+O aplicativo de clima não mostra índice de qualidade do ar,software
+O sensor de digital não reconhece após desligamento abrupto,hardware
+O sistema de backup não faz backup de arquivos temporários do sistema,software
+A ventoinha da GPU está com rolamento gasto,hardware
+O software de edição não exporta em ProRes RAW,software
+O conector do microfone está com interferência RF,hardware
+O aplicativo de mensagens não envia arquivos grandes,software
+A tela do tablet não responde a toques suaves,hardware
+O sistema de OCR não reconhece textos em fonte serif,software
+O cabo HDMI não transmite áudio em IMAX Enhanced,hardware
+O software de contabilidade não gera DCTFWeb,software
+A porta Ethernet não detecta cabo de par trançado,hardware
+O aplicativo de e-commerce não processsa transferência,software
+O sensor de movimento não detecta aceleração angular,hardware
+O sistema de backup não faz backup de arquivos de índice,software
+A ventoinha do processador está com desgaste,hardware
+O software de VPN não tem obfuscation avançada,software
+O conector do carregador está derretido,hardware
+O aplicativo de notas não reconhece geografia,software
+A tela do smartphone não responde a toques precisos,hardware
+O sistema de CRM não gera relatórios de lifetime value,software
+O cabo de rede está com jitter,hardware
+O software de edição não aplica rolling shutter compensation,software
+A placa de som não reproduz áudio em MQA Studio,hardware
+O aplicativo de finanças não calcula CDI over,software
+O sensor de temperatura está com deriva térmica,hardware
+O sistema de backup não verifica metadados estendidos,software
+A ventoinha lateral do gabinete está com folga,hardware
+O software de design não exporta para PNG-24,software
+O conector do fone de ouvido não isola ruído de fundo,hardware
+O aplicativo de e-mail não filtra por tamanho de anexo,software
+A tela do notebook apresenta color bleed,hardware
+O sistema de tickets não gera relatórios por canal,software
+O cabo de força está com sobreaquecimento,hardware
+O software de reuniões não permite gravação em 8K,software
+A placa de vídeo não suporta DirectML,hardware
+O aplicativo de clima não mostra índice de poluição sonora,software
+O sensor de digital não reconhece após atualização de firmware,hardware
+O sistema de backup não faz backup de arquivos de log de aplicativos,software
+A ventoinha dianteira do gabinete está com desbalanceamento,hardware
+O software de VPN não tem proteção contra WebRTC leaks,software
+O conector do mouse está com resistência,hardware
+O aplicativo de calendário não sincroniza com Zoho,software
+A tela do monitor apresenta TN glow,hardware
+O sistema de OCR não reconhece textos em fonte fantasy,software
+O cabo USB-C não transmite USB PD,hardware
+O software de contabilidade não calcula PIS/PASEP,software
+A porta HDMI não transmite Dolby Vision 12-bit,hardware
+O aplicativo de e-commerce não gera NFC-e,software
+O sensor de proximidade não funciona com película anti-espionagem,hardware
+O sistema de backup não restaura timestamps,software
+A ventoinha do water cooler está com crescimento bacteriano,hardware
+O software de edição não aplica moiré reduction,software
+O conector do teclado está com resíduos,hardware
+O aplicativo de mensagens não envia arquivos PDF,software
+A tela do notebook apresenta motion blur,hardware
+O sistema de CRM não gera relatórios de custo de aquisição,software
+O cabo DisplayPort está com perda de largura de banda,hardware
+O software de código-fonte não tem integration testing,software
+A placa de rede não negocia 40Gbps,hardware
+O aplicativo de produtividade não exporta para JSON,software
+O sensor de luz ambiente não ajusta brilho uniformemente,hardware
+O sistema de backup não compacta arquivos de cache,software
+A ventoinha traseira do gabinete está com desgaste,hardware
+O software de design não renderiza subsurface scattering,software
+O conector do headset não cancela ruído de multidão,hardware
+O aplicativo de finanças não calcula Selic,software
+A tela do monitor apresenta bleed uniformity,hardware
+O sistema de tickets não gera relatórios por produto,software
+O cabo USB está com perda de energia,hardware
+O software de reuniões não permite compartilhamento de vídeo em HD,software
+A placa-mãe não reconhece dispositivos Thunderbolt,hardware
+O aplicativo de clima não mostra índice de qualidade da água,software
+O sensor de digital não reconhece após troca de tela,hardware
+O sistema de backup não faz backup de arquivos de histórico,software
+A ventoinha da GPU está com rolamento danificado,hardware
+O software de edição não exporta em REDCODE,software
+O conector do microfone está com ruído de fundo,hardware
+O aplicativo de mensagens não envia arquivos ZIP,software
+A tela do tablet não responde a toques leves,hardware
+O sistema de OCR não reconhece textos em fonte decorative,software
+O cabo HDMI não transmite áudio em MPEG-H,hardware
+O software de contabilidade não gera DARF Simples,software
+A porta Ethernet não detecta cabo de cobre,hardware
+O aplicativo de e-commerce não processsa cartão virtual,software
+O sensor de movimento não detecta orientação,hardware
+O sistema de backup não faz backup de arquivos de configuração do usuário,software
+A ventoinha do processador está com desgaste,hardware
+O software de VPN não tem proteção contra DNS leaks,software
+O conector do carregador está carbonizado,hardware
+O aplicativo de notas não reconhece história,software
+A tela do smartphone não responde a toques leves,hardware
+O sistema de CRM não gera relatórios de ROI,software
+O cabo de rede está com perda de pacotes,hardware
+O software de edição não aplica rolling shutter repair,software
+A placa de som não reproduz áudio em DSD512,hardware
+O aplicativo de finanças não calcula IPCA,software
+O sensor de temperatura está com erro sistemático,hardware
+O sistema de backup não verifica assinaturas digitais,software
+A ventoinha lateral do gabinete está com desalinhamento,hardware
+O software de design não exporta para WebP,software
+O conector do fone de ouvido não isola ruído branco,hardware
+O aplicativo de e-mail não filtra por prioridade,software
+A tela do notebook apresenta color shift,hardware
+O sistema de tickets não gera relatórios por serviço,software
+O cabo de força está com sobrecarga,hardware
+O software de reuniões não permite gravação em 360°,software
+A placa de vídeo não suporta OpenGL,hardware
+O aplicativo de clima não mostra índice de qualidade do solo,software
+O sensor de digital não reconhece após reinicialização,hardware
+O sistema de backup não faz backup de arquivos de log de segurança,software
+A ventoinha dianteira do gabinete está com desgaste,hardware
+O software de VPN não tem proteção contra IPv6 leaks,software
+O conector do mouse está com oxidação,hardware
+O aplicativo de calendário não sincroniza com Tutanota,software
+A tela do monitor apresenta VA glow,hardware
+O sistema de OCR não reconhece textos em fonte monospaced,software
+O cabo USB-C não transmite altas velocidades,hardware
+O software de contabilidade não calcula CSLL,software
+A porta HDMI não transmite HDR10+ Gaming,hardware
+O aplicativo de e-commerce não gera MDF-e,software
+O sensor de proximidade não funciona com película anti-reflexo,hardware
+O sistema de backup não restaura propriedades estendidas,software
+A ventoinha do water cooler está com corrosão,hardware
+O software de edição não aplica temporal noise reduction,software
+O conector do teclado está com sujeira,hardware
+O aplicativo de mensagens não envia arquivos RAR,software
+A tela do notebook apresenta ghosting,hardware
+O sistema de CRM não gera relatórios de custo de retenção,software
+O cabo DisplayPort está com perda de sinal,hardware
+O software de código-fonte não tem coverage testing,software
+A placa de rede não negocia 100Gbps,hardware
+O aplicativo de produtividade não exporta para XML,software
+O sensor de luz ambiente não ajusta contraste,hardware
+O sistema de backup não compacta arquivos de log de eventos,software
+A ventoinha traseira do gabinete está com desgaste,hardware
+O software de design não renderiza global illumination,software
+O conector do headset não cancela ruído de tráfego,hardware
+O aplicativo de finanças não calcula IGPM,software
+A tela do monitor apresenta glow,hardware
+O sistema de tickets não gera relatórios por agente,software
+O cabo USB está com interferência,hardware
+O software de reuniões não permite compartilhamento de vídeo em 4K,software
+A placa-mãe não reconhece dispositivos NVMe,hardware
+O aplicativo de clima não mostra índice de qualidade do ar interior,software
+O sensor de digital não reconhece após atualização de BIOS,hardware
+O sistema de backup não faz backup de arquivos de log de aplicativos,software
+A ventoinha da GPU está com rolamento gasto,hardware
+O software de edição não exporta em ARRIRAW,software
+O conector do microfone está com interferência,hardware
+O aplicativo de mensagens não envia arquivos 7z,software
+A tela do tablet não responde a toques firmes,hardware
+O sistema de OCR não reconhece textos em fonte blackletter,software
+O cabo HDMI não transmite áudio em DTS:X,hardware
+O software de contabilidade não gera DARJ,software
+A porta Ethernet não detecta cabo de rede,hardware
+O aplicativo de e-commerce não processsa cartão de débito,software
+O sensor de movimento não detecta posição absoluta,hardware
+O sistema de backup não faz backup de arquivos de configuração do sistema,software
+A ventoinha do processador está com desbalanceamento,hardware
+O software de VPN não tem proteção contra fingerprinting,software
+O conector do carregador está derretendo,hardware
+O aplicativo de notas não reconhece literatura,software
+A tela do smartphone não responde a toques leves,hardware
+O sistema de CRM não gera relatórios de valor vitalício,software
+O cabo de rede está com latência,hardware
+O software de edição não aplica rolling shutter correction,software
+A placa de som não reproduz áudio em Dolby Atmos,hardware
+O aplicativo de finanças não calcula TJLP,software
+O sensor de temperatura está com erro aleatório,hardware
+O sistema de backup não verifica checksums,software
+A ventoinha lateral do gabinete está com desgaste,hardware
+O software de design não exporta para JPEG-XR,software
+O conector do fone de ouvido não isola ruído de máquinas,hardware
+O aplicativo de e-mail não filtra por remetente,software
+A tela do notebook apresenta backlight bleed,hardware
+O sistema de tickets não gera relatórios por satisfação,software
+O cabo de força está com resistência,hardware
+O software de reuniões não permite gravação em 3D,software
+A placa de vídeo não suporta Mantle,hardware
+O aplicativo de clima não mostra índice de qualidade da água potável,software
+O sensor de digital não reconhece após troca de tela,hardware
+O sistema de backup não faz backup de arquivos de log de desempenho,software
+A ventoinha dianteira do gabinete está com desalinhamento,hardware
+O software de VPN não tem proteção contra time attacks,software
+O conector do mouse está com desgaste,hardware
+O aplicativo de calendário não sincroniza com ProtonMail,software
+A tela do monitor apresenta IPS glow,hardware
+O sistema de OCR não reconhece textos em fonte old-style,software
+O cabo USB-C não transmite altas taxas de transferência,hardware
+O software de contabilidade não calcula IRRF,software
+A porta HDMI não transmite HDR10+ Dynamic,hardware
+O aplicativo de e-commerce não gera CT-e OS,software
+O sensor de proximidade não funciona com película privativa,hardware
+O sistema de backup não restaura atributos estendidos,software
+A ventoinha do water cooler está com depósitos,hardware
+O software de edição não aplica spatial noise reduction,software
+O conector do teclado está com oxidação,hardware
+O aplicativo de mensagens não envia arquivos TAR,software
+A tela do notebook apresenta motion blur,hardware
+O sistema de CRM não gera relatórios de custo por lead,software
+O cabo DisplayPort está com perda de frames,hardware
+O software de código-fonte não tem mutation testing,software
+A placa de rede não negocia 400Gbps,hardware
+O aplicativo de produtividade não exporta para YAML,software
+O sensor de luz ambiente não ajusta brilho,hardware
+O sistema de backup não compacta arquivos de log de auditoria,software
+A ventoinha traseira do gabinete está com desalinhamento,hardware
+texto,categoria
+O computador não quer ligar de jeito nenhum,hardware
+A tela do celular ficou toda colorida do nada,hardware
+O notebook desliga sozinho quando tiro da tomada,hardware
+O mouse sem fio não pega mais a pilha nova,hardware
+O teclado do PC tá grudando as teclas,hardware
+A impressora só cospe papel em branco,hardware
+Meu fone novo faz chiado quando mexo,hardware
+O monitor mostra umas listras verdes,hardware
+O carregador esquenta demais e queima o plug,hardware
+Dá um cheiro de queimado quando ligo o PC,hardware
+As fotos da câmera saem todas tremidas,hardware
+O tablet não segura carga e descarrega rápido,hardware
+O botão de volume do celular não aperta mais,hardware
+O som do PC some quando bato na mesa,hardware
+O cabo USB entortou e não encaixa mais,hardware
+Meu celular ficou preto e não volta,software
+O Instagram não deixa eu postar fotos,software
+Perdi todos os contatos do celular do nada,software
+O Facebook fica carregando eternamente,software
+O PC tá demorando uma hora pra abrir coisas,software
+A impressora diz que tá sem papel mas tá cheio,software
+Minhas planilhas sumiram depois da atualização,software
+Apareceu um cadeado na tela e não sei a senha,software
+Meu email tá mandando mensagens sozinho,software
+Os vídeos travam no meio mesmo com wifi bom,software
+Apaguei arquivos importantes sem querer,software
+O Word tá misturando todas as letras,software
+O app do banco diz que meu celular tá rootado,software
+O Chrome abre um monte de sites estranhos,software
+Toda hora aparece pop-up de vírus no PC,software
+A luz do PC acende mas não aparece nada,hardware
+O celular não carrega direito para no meio,hardware
+O notebook faz barulho de vento forte,hardware
+O mouse fica pulando pela tela sozinho,hardware
+O teclado não digita os números direito,hardware
+A impressora mancha tudo de tinta preta,hardware
+O fone de ouvido dá choque na orelha,hardware
+O monitor treme quando passa caminhão na rua,hardware
+O PC reinicia do nada quando jogo,hardware
+O celular desliga sozinho quando tá em chamada,hardware
+A câmera frontal não funciona no WhatsApp,hardware
+O tablet não vira a tela quando deito ele,hardware
+O botão home do celular não funciona mais,hardware
+O PC não acha a rede wifi de casa,hardware
+O cabo HDMI não passa imagem pra TV nova,hardware
+Meu whatsapp ficou verde e não sei consertar,software
+O youtube fica escurecendo os vídeos sozinho,software
+O windows não deixa eu salvar meus documentos,software
+O excel transformou tudo em símbolos estranhos,software
+O PC fala que tá sem espaço mas tá vazio,software
+O app de fotos embaralhou todos meus álbuns,software
+O celular não deixa eu desinstalar apps,software
+O word travou e perdi meu trabalho todo,software
+O PC abriu uma tela azul com letras brancas,software
+O chrome não lembra mais minhas senhas,software
+O wifi some do celular toda hora,software
+O computador faz bip alto quando liga,hardware
+A tela do celular fica piscando quando toca,hardware
+Meu notebook queima a perna de tão quente,hardware
+O mouse fica travando no meio do jogo,hardware
+O teclado solta fumaça quando digito rápido,hardware
+A impressora só imprime meio torto,hardware
+O fone de ouvido dá eco nas chamadas,hardware
+O monitor faz barulho de estática,hardware
+O PC desliga sozinho quando abro muitos programas,hardware
+O celular não vibra mais quando toca,hardware
+Meus emails somem da caixa de entrada,software
+O Facebook não mostra minhas notificações,software
+O PC abre programas sozinho no meio da noite,software
+O Word transformou meu texto em códigos,software
+O Excel não soma os números direito,software
+O Windows não deixa eu apagar arquivos,software
+O celular não atualiza mais os aplicativos,software
+O Chrome fecha todas as abas do nada,software
+Meus documentos salvam com nomes errados,software
+O wifi desconecta quando entra no Instagram,software

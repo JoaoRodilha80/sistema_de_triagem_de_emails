@@ -1,26 +1,4 @@
-# Arquivos sensíveis
-config.py
-.env
-credenciais.json
-*.pkl
-*.model
-
-# Arquivos do Python
-__pycache__/
-*.pyc
-*.pyo
-*.pyd
-
-# Ambiente virtual
-venv/
-.venv/
-env/
-
-# Arquivos de IDE
-.vscode/
-.idea/
-*.swp
-
-# Arquivos do sistema
-.DS_Store
-Thumbs.db
+config.py 
+credenciais.json 
+*.pkl 
+__pycache__/ 
